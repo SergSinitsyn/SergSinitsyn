@@ -12,7 +12,7 @@
 ## 🛠️ My Tech Stack:
 - Programming Languages: **C++, C, Java**
 - Databases: **PostgreSQL**
-- Tools: **Linux/Unix, Bash, Git, Docker, Redmine, Miro**
+- Tools: **Linux/Unix, Bash, Git, QT, Docker, Redmine, Miro**
 
 ## 📈 My GitHub Activity:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SergSinitsyn&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/SergSinitsyn)
