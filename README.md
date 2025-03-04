@@ -24,7 +24,6 @@
 - [Project 3](https://github.com/SergSinitsyn/project3) - Brief project description.
 
 ## 💻 My LeetCode Profile:
-- [LeetCode - Serg94](https://leetcode.com/u/Serg94/) - My solutions and algorithm practice.
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Serg94?theme=dark)
 
 
