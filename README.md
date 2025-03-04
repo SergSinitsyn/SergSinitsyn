@@ -2,10 +2,10 @@
 
 ## About Me:
 - 🔭 I'm a developer working with **C++**.
-- 🌱 Currently, I'm learning **Embedded C++**.
-- 💬 Feel free to ask me about **algorithms**.
+- 🌱 Currently, I'm learning **C++**.
+- 💬 Feel free to ask me about **algorithms, embedded**.
 - 📫 You can reach me at: **serg94com@gmail.com**.
-- ⚡ Interests: **boardgames, technology, plants**.
+- ⚡ Interests: **boardgames, plants, technology**.
 
 ## 🛠️ My Tech Stack:
 - Programming Languages: **C++, C, Java**
