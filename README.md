@@ -17,9 +17,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergSinitsyn&layout=compact&theme=radical)](https://github.com/SergSinitsyn)
 
 ## 🔧 My Projects:
-- [Project 1](https://github.com/SergSinitsyn/project1) - Brief project description.
-- [Project 2](https://github.com/SergSinitsyn/project2) - Brief project description.
-- [Project 3](https://github.com/SergSinitsyn/project3) - Brief project description.
+
+| Project name| Preview|Stack| Short description|
+|:--:|:----------------------:|:----------------------:|:---------------:|
+|[Smart Calc](https://github.com/SergSinitsyn/Smart-Calculator)|![Smart Calc]()|![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)|Calculations, plotting, credit and deposit calculations|
 
 ## 💻 My LeetCode Profile:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Serg94?theme=dark)
