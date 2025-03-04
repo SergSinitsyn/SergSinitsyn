@@ -3,17 +3,16 @@
 # Hi, I'm Sergey Sinitsyn 👋
 
 ## About Me:
-- 🔭 I'm a developer working with **C++, Java**.
+- 🔭 I'm a developer working with **C++**.
 - 🌱 Currently, I'm learning **Embedded C++**.
-- 💬 Feel free to ask me about **algorithms, data structures, web development**.
-- 📫 You can reach me at: **sergsinitsyn@example.com** (or your real email).
-- ⚡ Interests: **Technology, travel, sports**.
+- 💬 Feel free to ask me about **algorithms**.
+- 📫 You can reach me at: **serg94com@gmail.com**.
+- ⚡ Interests: **boardgames, technology, plants**.
 
 ## 🛠️ My Tech Stack:
-- Programming Languages: **Python, C++, Java, JavaScript**
-- Web Development: **HTML, CSS, React**
-- Databases: **PostgreSQL, MongoDB**
-- Tools: **Git, Docker, AWS**
+- Programming Languages: **C++, C, Java**
+- Databases: **PostgreSQL**
+- Tools: **Linux/Unix, Bash, Git, Docker, Redmine, Miro**
 
 ## 📈 My GitHub Activity:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=SergSinitsyn&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/SergSinitsyn)
@@ -27,6 +26,8 @@
 ## 💻 My LeetCode Profile:
 - [LeetCode - Serg94](https://leetcode.com/u/Serg94/) - My solutions and algorithm practice.
 
+
+<!--
 ## 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/sergsinitsyn) (if available)
 - [Twitter](https://twitter.com/sergsinitsyn) (if available)
@@ -34,7 +35,7 @@
 
 
 
-<!--
+
 **SergSinitsyn/SergSinitsyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
